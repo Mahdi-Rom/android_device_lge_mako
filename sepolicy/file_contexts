@@ -31,3 +31,7 @@
 
 /system/bin/hci_qcomm_init         u:object_r:hci_exec:s0
 /system/bin/bdAddrLoader           u:object_r:hci_exec:s0
+
+# Hardware tunables
+/sys/class/timed_output/vibrator/amp        u:object_r:sysfs_writable:s0
+/sys/devices/platform/kcal_ctrl.0(/.*)?  -- u:object_r:sysfs_writable:s0

@@ -139,3 +139,5 @@ OVERRIDE_RS_DRIVER := libRSDriver_adreno.so
 HAVE_ADRENO_SOURCE:= false
 
 BOARD_HAS_NO_SELECT_BUTTON := true
+
+BOARD_HARDWARE_CLASS := device/lge/mako/cmhw/
