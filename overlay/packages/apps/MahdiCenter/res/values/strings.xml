@@ -16,6 +16,6 @@
 -->
 
 <resources>
-    <string name="download_url">http://forum.xda-developers.com/nexus-4/orig-development/rom-mahdi-rom-2-4-t2581007</string>
+    <string name="xda_url">http://forum.xda-developers.com/nexus-4/orig-development/rom-mahdi-rom-2-4-t2581007</string>
     <string name="xda_summary">Visit the Nexus 4 XDA thread</string>
 </resources>
