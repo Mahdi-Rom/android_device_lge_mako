@@ -2,11 +2,11 @@
  {
    "repository":  "android_vendor_lge",
    "target_path": "vendor/lge",
-   "branch":      "kk-4.4"
+   "branch":      "kk-4.4.3"
  },
  {
    "repository":  "android_kernel_lge_mako",
    "target_path": "kernel/lge/mako",
-   "branch":      "kk-4.4"
+   "branch":      "kk-4.4.3"
  }
 ]
